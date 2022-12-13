@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TeaGG2020
+- 👀 I'm interested in Programming
+- 🌱 I’m currently learning C++ / Python
+- 📫 How to reach me [Telegram](https://t.me/mrteagg)
